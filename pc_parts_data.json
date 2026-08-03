@@ -126,8 +126,8 @@
     },
     "NVIDIA GeForce RTX 3070 Ti": {
      "price": 4499,
-     "prev": null,
-     "chg": null
+     "prev": 4499,
+     "chg": 0.0
     }
    },
    "AMD AMD": {
@@ -168,8 +168,8 @@
     },
     "AMD Radeon PRO W7700 RDNA3": {
      "price": 9899,
-     "prev": null,
-     "chg": null
+     "prev": 9899,
+     "chg": 0.0
     }
    },
    "华硕 ASUS": {
@@ -210,8 +210,8 @@
     },
     "PCI Express 4.0 16X": {
      "price": 3599,
-     "prev": null,
-     "chg": null
+     "prev": 3599,
+     "chg": 0.0
     }
    },
    "七彩虹 COLORFUL": {
@@ -252,8 +252,8 @@
     },
     "iGame GeForce RTX 5060 Ultra W OC": {
      "price": 2969,
-     "prev": null,
-     "chg": null
+     "prev": 2969,
+     "chg": 0.0
     }
    },
    "微星 MSI": {
@@ -289,8 +289,8 @@
     },
     "PCI Express 4.0 16X": {
      "price": 3999,
-     "prev": null,
-     "chg": null
+     "prev": 3999,
+     "chg": 0.0
     },
     "GeForce RTX 5090 32G SUPRIM SOC": {
      "price": 24931,
@@ -420,8 +420,8 @@
     },
     "GeForce RTX 4090": {
      "price": 12999,
-     "prev": null,
-     "chg": null
+     "prev": 12999,
+     "chg": 0.0
     }
    },
    "铭瑄 MAXSUN": {
@@ -489,13 +489,13 @@
     },
     "Radeon RX 7900 XT 20GB D6": {
      "price": 6399,
-     "prev": null,
-     "chg": null
+     "prev": 6399,
+     "chg": 0.0
     },
     "DisplayPort1.4": {
      "price": 3499,
-     "prev": null,
-     "chg": null
+     "prev": 3499,
+     "chg": 0.0
     },
     "RX 9060 XT OC 16G D6 9": {
      "price": 3599,
@@ -546,8 +546,8 @@
     },
     "PCI Express 3.0 16X": {
      "price": 629,
-     "prev": null,
-     "chg": null
+     "prev": 629,
+     "chg": 0.0
     }
    }
   },
@@ -674,8 +674,8 @@
     },
     "B760M H": {
      "price": 659,
-     "prev": null,
-     "chg": null
+     "prev": 659,
+     "chg": 0.0
     }
    },
    "华擎 ASRock": {
@@ -1462,8 +1462,8 @@
     },
     "PCIE5.1": {
      "price": 564,
-     "prev": null,
-     "chg": null
+     "prev": 564,
+     "chg": 0.0
     },
     "ATX3.1": {
      "price": 439,
@@ -1472,8 +1472,8 @@
     },
     "80PLUS": {
      "price": 799,
-     "prev": 499,
-     "chg": 60.1
+     "prev": 799,
+     "chg": 0.0
     },
     ",80PLUS": {
      "price": 229,
@@ -1499,8 +1499,8 @@
     },
     "xf750w": {
      "price": 659,
-     "prev": null,
-     "chg": null
+     "prev": 659,
+     "chg": 0.0
     },
     "ATX 12V 2.31": {
      "price": 389,
@@ -1593,8 +1593,8 @@
     },
     "GX Bronze 650 V2": {
      "price": 294,
-     "prev": null,
-     "chg": null
+     "prev": 294,
+     "chg": 0.0
     },
     "GX Bronze 850 V2": {
      "price": 384,
@@ -1645,8 +1645,8 @@
     },
     "BP 750 GOLD": {
      "price": 549,
-     "prev": null,
-     "chg": null
+     "prev": 549,
+     "chg": 0.0
     }
    }
   },
@@ -1689,8 +1689,8 @@
     },
     "x1 Type-C x1": {
      "price": 899,
-     "prev": null,
-     "chg": null
+     "prev": 899,
+     "chg": 0.0
     }
    },
    "酷冷至尊 CoolerMaster": {
@@ -1810,8 +1810,8 @@
     },
     "NZXT H710i Cyberpunk": {
      "price": 2999,
-     "prev": null,
-     "chg": null
+     "prev": 2999,
+     "chg": 0.0
     },
     "x2 x1": {
      "price": 1299,
@@ -1894,8 +1894,8 @@
     },
     "YOGO Q1 T16": {
      "price": 229,
-     "prev": null,
-     "chg": null
+     "prev": 229,
+     "chg": 0.0
     },
     "YOGO Z1 EEB": {
      "price": 1299,
@@ -1941,8 +1941,8 @@
     },
     "TK-1 2.0": {
      "price": 598,
-     "prev": null,
-     "chg": null
+     "prev": 598,
+     "chg": 0.0
     }
    },
    "航嘉 Huntkey": {
@@ -1973,8 +1973,8 @@
     },
     "x1 BU420": {
      "price": 199,
-     "prev": null,
-     "chg": null
+     "prev": 199,
+     "chg": 0.0
     },
     "GS450S": {
      "price": 169,
@@ -2148,8 +2148,8 @@
     },
     "DQ125 BLACK": {
      "price": 139,
-     "prev": null,
-     "chg": null
+     "prev": 139,
+     "chg": 0.0
     },
     "CQ125 BLACK 6": {
      "price": 109,
@@ -2276,13 +2276,13 @@
     },
     "0.03ms": {
      "price": 4299,
-     "prev": null,
-     "chg": null
+     "prev": 4299,
+     "chg": 0.0
     },
     "AMD FreeSync 2": {
      "price": 9999,
-     "prev": null,
-     "chg": null
+     "prev": 9999,
+     "chg": 0.0
     }
    },
    "LG LG": {
@@ -2318,13 +2318,13 @@
     },
     "29'' LG 29WP500": {
      "price": 1399,
-     "prev": null,
-     "chg": null
+     "prev": 1399,
+     "chg": 0.0
     },
     "27'' LG 27G64NA 2K": {
      "price": 1297,
-     "prev": null,
-     "chg": null
+     "prev": 1297,
+     "chg": 0.0
     }
    },
    "戴尔 Dell": {
@@ -2402,8 +2402,8 @@
     },
     "34'' AOC CU34G2X": {
      "price": 2599,
-     "prev": null,
-     "chg": null
+     "prev": 2599,
+     "chg": 0.0
     },
     "27'' AOC Q27G4": {
      "price": 1599,
@@ -2491,8 +2491,8 @@
     },
     "MAG 274URFW": {
      "price": 2299,
-     "prev": null,
-     "chg": null
+     "prev": 2299,
+     "chg": 0.0
     }
    },
    "优派 ViewSonic": {
@@ -2565,8 +2565,8 @@
     },
     "24'' HKC V2511 IPS": {
      "price": 499,
-     "prev": null,
-     "chg": null
+     "prev": 499,
+     "chg": 0.0
     },
     "27'' HKC GS27QKS QD-OLED": {
      "price": 1999,
@@ -2617,8 +2617,8 @@
     },
     "32E1S5900 4K": {
      "price": 1999,
-     "prev": null,
-     "chg": null
+     "prev": 1999,
+     "chg": 0.0
     }
    },
    "明基 BenQ": {
@@ -2659,8 +2659,8 @@
     },
     "BL2420PT 2K": {
      "price": 1549,
-     "prev": null,
-     "chg": null
+     "prev": 1549,
+     "chg": 0.0
     }
    }
   },
@@ -2747,13 +2747,13 @@
     },
     "GANSS GS3098T KTT": {
      "price": 319,
-     "prev": 279,
-     "chg": 14.3
+     "prev": 319,
+     "chg": 0.0
     },
     "GANSS GS3075T GASKET": {
      "price": 259,
-     "prev": null,
-     "chg": null
+     "prev": 259,
+     "chg": 0.0
     },
     "GANSS GS3087T-PRO KTT": {
      "price": 309,
@@ -2841,8 +2841,8 @@
     },
     "Cherry MX board 6.0 G80-3931LSAEU-2": {
      "price": 1399,
-     "prev": null,
-     "chg": null
+     "prev": 1399,
+     "chg": 0.0
     }
    }
   },
@@ -2941,13 +2941,13 @@
     },
     "S1000": {
      "price": 1198,
-     "prev": null,
-     "chg": null
+     "prev": 1198,
+     "chg": 0.0
     },
     "R301T": {
      "price": 299,
-     "prev": null,
-     "chg": null
+     "prev": 299,
+     "chg": 0.0
     }
    },
    "JBL JBL": {
@@ -2988,8 +2988,8 @@
     },
     "JBL BAR 1000": {
      "price": 12999,
-     "prev": null,
-     "chg": null
+     "prev": 12999,
+     "chg": 0.0
     }
    }
   },
