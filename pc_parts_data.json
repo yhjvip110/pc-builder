@@ -1,0 +1,3094 @@
+{
+ "date": "2026-08-03",
+ "categories": {
+  "CPU": {
+   "英特尔 Intel": {
+    "Ultra 9 285K": {
+     "price": 4799,
+     "prev": 4799,
+     "chg": 0.0
+    },
+    "Ultra 7 265K": {
+     "price": 3199,
+     "prev": 3199,
+     "chg": 0.0
+    },
+    "LGA 1151": {
+     "price": 1119,
+     "prev": 1119,
+     "chg": 0.0
+    },
+    "i5 13600K": {
+     "price": 2599,
+     "prev": 2599,
+     "chg": 0.0
+    },
+    "i5 13490F": {
+     "price": 1599,
+     "prev": 1599,
+     "chg": 0.0
+    },
+    "i5 14490F": {
+     "price": 1499,
+     "prev": 1499,
+     "chg": 0.0
+    },
+    "i5 13400F": {
+     "price": 1699,
+     "prev": 1699,
+     "chg": 0.0
+    },
+    "i9 13900K": {
+     "price": 5500,
+     "prev": 5500,
+     "chg": 0.0
+    }
+   },
+   "AMD AMD": {
+    "AMD Ryzen 5 9600X": {
+     "price": 1499,
+     "prev": 1499,
+     "chg": 0.0
+    },
+    "AMD Ryzen 7 9800X3D": {
+     "price": 3799,
+     "prev": 3799,
+     "chg": 0.0
+    },
+    "AMD Ryzen 7 7800X3D": {
+     "price": 3099,
+     "prev": 3099,
+     "chg": 0.0
+    },
+    "AMD Ryzen 7 9850X3D": {
+     "price": 3699,
+     "prev": 3699,
+     "chg": 0.0
+    },
+    "AMD Ryzen 5 7500F 5nm AM5": {
+     "price": 1239,
+     "prev": 1239,
+     "chg": 0.0
+    },
+    "AMD Ryzen 7 9700X": {
+     "price": 2849,
+     "prev": 2849,
+     "chg": 0.0
+    },
+    "AMD Ryzen 5 5600GT": {
+     "price": 1049,
+     "prev": 1049,
+     "chg": 0.0
+    },
+    "AMD Ryzen ThreadRipper Pro 5995WX": {
+     "price": 49999,
+     "prev": 49999,
+     "chg": 0.0
+    }
+   }
+  },
+  "显卡": {
+   "英伟达 NVIDIA": {
+    "NVIDIA RTX A6000": {
+     "price": 38499,
+     "prev": 38499,
+     "chg": 0.0
+    },
+    "NVIDIA RTX 5070": {
+     "price": 4599,
+     "prev": 4599,
+     "chg": 0.0
+    },
+    "DLSS3": {
+     "price": 22499,
+     "prev": 22499,
+     "chg": 0.0
+    },
+    "NVIDIA RTX 5070 Ti": {
+     "price": 6299,
+     "prev": 6299,
+     "chg": 0.0
+    },
+    "NVIDIA RTX A4000": {
+     "price": 5950,
+     "prev": 5950,
+     "chg": 0.0
+    },
+    "NVIDIA RTX PRO 6000 Blackwell": {
+     "price": 88299,
+     "prev": 88299,
+     "chg": 0.0
+    },
+    "NVIDIA RTX 5080": {
+     "price": 8299,
+     "prev": 8299,
+     "chg": 0.0
+    },
+    "NVIDIA GeForce RTX 3070 Ti": {
+     "price": 4499,
+     "prev": null,
+     "chg": null
+    }
+   },
+   "AMD AMD": {
+    "6700 XT": {
+     "price": 3699,
+     "prev": 3699,
+     "chg": 0.0
+    },
+    "PCI Express 4.0 16X": {
+     "price": 16999,
+     "prev": 16999,
+     "chg": 0.0
+    },
+    "AMD Radeon RX 7900 GRE": {
+     "price": 5299,
+     "prev": 5299,
+     "chg": 0.0
+    },
+    "AMD Radeon Pro W7800": {
+     "price": 23999,
+     "prev": 23999,
+     "chg": 0.0
+    },
+    "PCI Express 3.0 16X": {
+     "price": 1499,
+     "prev": 1499,
+     "chg": 0.0
+    },
+    "AMD Radeon Pro W7600": {
+     "price": 4999,
+     "prev": 4999,
+     "chg": 0.0
+    },
+    "OpenGL 4.5": {
+     "price": 11800,
+     "prev": 11800,
+     "chg": 0.0
+    },
+    "AMD Radeon PRO W7700 RDNA3": {
+     "price": 9899,
+     "prev": null,
+     "chg": null
+    }
+   },
+   "华硕 ASUS": {
+    "DLSS4": {
+     "price": 8499,
+     "prev": 8499,
+     "chg": 0.0
+    },
+    "DUAL RTX 3050 O6G": {
+     "price": 1989,
+     "prev": 1989,
+     "chg": 0.0
+    },
+    "ATS-RTX5060TI-O8G": {
+     "price": 3819,
+     "prev": 3819,
+     "chg": 0.0
+    },
+    "DUAL-RTX4070-12G": {
+     "price": 4799,
+     "prev": 4799,
+     "chg": 0.0
+    },
+    "TUF-RTX4060TI-O8G-GAMING": {
+     "price": 3599,
+     "prev": 3599,
+     "chg": 0.0
+    },
+    "PCI Express 3.0 16X": {
+     "price": 1099,
+     "prev": 1099,
+     "chg": 0.0
+    },
+    "ROG RTX 5090": {
+     "price": 25350,
+     "prev": 25350,
+     "chg": 0.0
+    },
+    "PCI Express 4.0 16X": {
+     "price": 3599,
+     "prev": null,
+     "chg": null
+    }
+   },
+   "七彩虹 COLORFUL": {
+    "iGame GeForce RTX 4060 Ultra W DUO 8GB": {
+     "price": 2499,
+     "prev": 2499,
+     "chg": 0.0
+    },
+    "DLSS 4": {
+     "price": 7599,
+     "prev": 7599,
+     "chg": 0.0
+    },
+    "iGame GeForce RTX 3060 Advanced OC 12G": {
+     "price": 3699,
+     "prev": 3699,
+     "chg": 0.0
+    },
+    "GeForce RTX 5060 DUO 8GB": {
+     "price": 2699,
+     "prev": 2699,
+     "chg": 0.0
+    },
+    "2*90mm TU117": {
+     "price": 1199,
+     "prev": 1199,
+     "chg": 0.0
+    },
+    "iGame GeForce RTX 5060 Ti Advanced OC 16GB": {
+     "price": 5299,
+     "prev": 5299,
+     "chg": 0.0
+    },
+    "GeForce RTX 3050 DUO V2 8G": {
+     "price": 1709,
+     "prev": 1709,
+     "chg": 0.0
+    },
+    "iGame GeForce RTX 5060 Ultra W OC": {
+     "price": 2969,
+     "prev": null,
+     "chg": null
+    }
+   },
+   "微星 MSI": {
+    "TRI FROZR 4": {
+     "price": 2899,
+     "prev": 2899,
+     "chg": 0.0
+    },
+    "GeForce RTX 4060 Ti VENTUS 3X 16G OC": {
+     "price": 2699,
+     "prev": 2699,
+     "chg": 0.0
+    },
+    "4070ti super": {
+     "price": 6899,
+     "prev": 6899,
+     "chg": 0.0
+    },
+    "PCI Express 3.0 16X": {
+     "price": 2069,
+     "prev": 2069,
+     "chg": 0.0
+    },
+    "GeForce GTX 1050Ti GAMING X 4G 4G GRRR5": {
+     "price": 1099,
+     "prev": 1099,
+     "chg": 0.0
+    },
+    "OpenGL 4.5": {
+     "price": 3199,
+     "prev": 3199,
+     "chg": 0.0
+    },
+    "PCI Express 4.0 16X": {
+     "price": 3999,
+     "prev": null,
+     "chg": null
+    },
+    "GeForce RTX 5090 32G SUPRIM SOC": {
+     "price": 24931,
+     "prev": 24931,
+     "chg": 0.0
+    }
+   },
+   "技嘉 GIGABYTE": {
+    "GeForce RTX 5060 Ti GAMING OC 16G": {
+     "price": 4099,
+     "prev": 4099,
+     "chg": 0.0
+    },
+    "GeForce RTX 5070 Ti Gaming OC 16G": {
+     "price": 7999,
+     "prev": 7999,
+     "chg": 0.0
+    },
+    "GeForce RTX 5060 WINDFORCE 8G DLSS 4": {
+     "price": 2499,
+     "prev": 2499,
+     "chg": 0.0
+    },
+    "RTX 4060": {
+     "price": 2399,
+     "prev": 2399,
+     "chg": 0.0
+    },
+    "GeForce RTX 5060 GAMING OC 8G": {
+     "price": 2899,
+     "prev": 2899,
+     "chg": 0.0
+    },
+    "PCI Express 4.0 16X": {
+     "price": 2499,
+     "prev": 2499,
+     "chg": 0.0
+    },
+    "GeForce RTX 5060 AERO OC 8G": {
+     "price": 2999,
+     "prev": 2999,
+     "chg": 0.0
+    },
+    "GeForce RTX 5070 Ti AERO OC 16G": {
+     "price": 8099,
+     "prev": 8099,
+     "chg": 0.0
+    }
+   },
+   "影驰 GALAX": {
+    "GeForce RTX 5080": {
+     "price": 15999,
+     "prev": 15999,
+     "chg": 0.0
+    },
+    "759TOPS": {
+     "price": 5099,
+     "prev": 5099,
+     "chg": 0.0
+    },
+    "GeForce GTX 1050Ti": {
+     "price": 1899,
+     "prev": 1899,
+     "chg": 0.0
+    },
+    "GeForce RTX 5080 HOF OC LAB Deluxe-X": {
+     "price": 13999,
+     "prev": 13999,
+     "chg": 0.0
+    },
+    "LUNA OC 12+4+3": {
+     "price": 7999,
+     "prev": 7999,
+     "chg": 0.0
+    },
+    "PCI Express 3.0 16X": {
+     "price": 2199,
+     "prev": 2199,
+     "chg": 0.0
+    },
+    "Geforce RTX 4070": {
+     "price": 4999,
+     "prev": 4999,
+     "chg": 0.0
+    },
+    "PCI Express 4.0 16X": {
+     "price": 6799,
+     "prev": 6799,
+     "chg": 0.0
+    }
+   },
+   "索泰 ZOTAC": {
+    "DLSS4": {
+     "price": 7199,
+     "prev": 7199,
+     "chg": 0.0
+    },
+    "GeForce RTX 3070Ti-8G6X PGF OC ARGB": {
+     "price": 7499,
+     "prev": 7499,
+     "chg": 0.0
+    },
+    "759 TOPS": {
+     "price": 3699,
+     "prev": 3699,
+     "chg": 0.0
+    },
+    "1801 TOPS": {
+     "price": 11999,
+     "prev": 11999,
+     "chg": 0.0
+    },
+    "PCI Express 4.0 16X": {
+     "price": 4899,
+     "prev": 4899,
+     "chg": 0.0
+    },
+    "OpenGL 4.5": {
+     "price": 2699,
+     "prev": 2699,
+     "chg": 0.0
+    },
+    "GeForce RTX 4070 SUPER-12GB": {
+     "price": 5299,
+     "prev": 5299,
+     "chg": 0.0
+    },
+    "GeForce RTX 4090": {
+     "price": 12999,
+     "prev": null,
+     "chg": null
+    }
+   },
+   "铭瑄 MAXSUN": {
+    "GeForce RTX 3060 iCraft OC 12G": {
+     "price": 4199,
+     "prev": 4199,
+     "chg": 0.0
+    },
+    "OpenGL 4.5": {
+     "price": 3799,
+     "prev": 3799,
+     "chg": 0.0
+    },
+    "GeForce RTX4070 Super iCraft OC12G": {
+     "price": 5099,
+     "prev": 5099,
+     "chg": 0.0
+    },
+    "GeForce RTX4070Ti SUPER Turbo 16G super": {
+     "price": 6899,
+     "prev": 6899,
+     "chg": 0.0
+    },
+    "PCI Express 3.0 16X": {
+     "price": 3549,
+     "prev": 3549,
+     "chg": 0.0
+    },
+    "MS-RTX4060 iCraft OC 8G": {
+     "price": 2699,
+     "prev": 2699,
+     "chg": 0.0
+    },
+    "MS-RTX4060 iCraft OC8G": {
+     "price": 2449,
+     "prev": 2449,
+     "chg": 0.0
+    },
+    "PCI Express 4.0 16X": {
+     "price": 6999,
+     "prev": 6999,
+     "chg": 0.0
+    }
+   },
+   "蓝宝石 SAPPHIRE": {
+    "AMD Radeon RX 7650 GRE 8G": {
+     "price": 2049,
+     "prev": 2049,
+     "chg": 0.0
+    },
+    "RX 9070 XT 16G D6 OC": {
+     "price": 5899,
+     "prev": 5899,
+     "chg": 0.0
+    },
+    "PCI Express 3.0 16X": {
+     "price": 1549,
+     "prev": 1549,
+     "chg": 0.0
+    },
+    "RX 6750 GRE 12G D6": {
+     "price": 2449,
+     "prev": 2449,
+     "chg": 0.0
+    },
+    "Radeon RX 7900 XT 20GB D6": {
+     "price": 6399,
+     "prev": null,
+     "chg": null
+    },
+    "DisplayPort1.4": {
+     "price": 3499,
+     "prev": null,
+     "chg": null
+    },
+    "RX 9060 XT OC 16G D6 9": {
+     "price": 3599,
+     "prev": 3599,
+     "chg": 0.0
+    },
+    "Radeon RX 6750XT 12G D6": {
+     "price": 4499,
+     "prev": 4499,
+     "chg": 0.0
+    }
+   },
+   "盈通 YESTON": {
+    "GeForce RTX 3050 6G": {
+     "price": 1750,
+     "prev": 1750,
+     "chg": 0.0
+    },
+    "RX 6750 GRE 10G D6": {
+     "price": 2049,
+     "prev": 2049,
+     "chg": 0.0
+    },
+    "GTX 1650-4G D5": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    },
+    "RDNA2": {
+     "price": 3499,
+     "prev": 3499,
+     "chg": 0.0
+    },
+    "GeForce RTX3060 12G D6": {
+     "price": 2649,
+     "prev": 2649,
+     "chg": 0.0
+    },
+    "8G D6": {
+     "price": 3099,
+     "prev": 3099,
+     "chg": 0.0
+    },
+    "RX 7800 XT 16GD6": {
+     "price": 4199,
+     "prev": 4199,
+     "chg": 0.0
+    },
+    "PCI Express 3.0 16X": {
+     "price": 629,
+     "prev": null,
+     "chg": null
+    }
+   }
+  },
+  "主板": {
+   "华硕 ASUS": {
+    "TUF GAMING B760M-PLUS D4": {
+     "price": 1249,
+     "prev": 1249,
+     "chg": 0.0
+    },
+    "ROG STRIX Z890-A GAMING WIFI S": {
+     "price": 3599,
+     "prev": 3599,
+     "chg": 0.0
+    },
+    "P8B75-V": {
+     "price": 779,
+     "prev": 779,
+     "chg": 0.0
+    },
+    "ROG STRIX Z790-A GAMING WIFI": {
+     "price": 2899,
+     "prev": 2899,
+     "chg": 0.0
+    },
+    "GEN 5": {
+     "price": 2799,
+     "prev": 2799,
+     "chg": 0.0
+    },
+    "TUF GAMING B650M-PLUS WIFI": {
+     "price": 1499,
+     "prev": 1499,
+     "chg": 0.0
+    },
+    "PRIME H510M-K AURA SYNC": {
+     "price": 599,
+     "prev": 599,
+     "chg": 0.0
+    },
+    "TUF GAMING B760M-PLUS WIFI D4": {
+     "price": 1299,
+     "prev": 1299,
+     "chg": 0.0
+    }
+   },
+   "微星 MSI": {
+    "B450M MORTAR MAX": {
+     "price": 449,
+     "prev": 449,
+     "chg": 0.0
+    },
+    "B760M GAMING PLUS WIFI": {
+     "price": 1399,
+     "prev": 1399,
+     "chg": 0.0
+    },
+    "PRO H610M-E DDR4": {
+     "price": 599,
+     "prev": 599,
+     "chg": 0.0
+    },
+    "Z790 Z790 GAMING PLUS WIFI": {
+     "price": 2099,
+     "prev": 2099,
+     "chg": 0.0
+    },
+    "MPG Z890 EDGE TI WIFI 16+1+1+1": {
+     "price": 3299,
+     "prev": 3299,
+     "chg": 0.0
+    },
+    "WiFi7": {
+     "price": 1499,
+     "prev": 1499,
+     "chg": 0.0
+    },
+    "B760M BOMBER DDR4": {
+     "price": 899,
+     "prev": 899,
+     "chg": 0.0
+    },
+    "PRO B760M-A WIFI DDR4 II": {
+     "price": 1049,
+     "prev": 1049,
+     "chg": 0.0
+    }
+   },
+   "技嘉 GIGABYTE": {
+    "B650M GAMING WIFI": {
+     "price": 749,
+     "prev": 749,
+     "chg": 0.0
+    },
+    "A520M K V2": {
+     "price": 549,
+     "prev": 549,
+     "chg": 0.0
+    },
+    "M.2 SSD": {
+     "price": 499,
+     "prev": 499,
+     "chg": 0.0
+    },
+    "Z890M AORUS ELITE WIFI7 12(60A)+1+2": {
+     "price": 1999,
+     "prev": 1999,
+     "chg": 0.0
+    },
+    "H610M K DDR4": {
+     "price": 499,
+     "prev": 499,
+     "chg": 0.0
+    },
+    "Wi-Fi6E+2.5": {
+     "price": 1399,
+     "prev": 1399,
+     "chg": 0.0
+    },
+    "B760 AORUS MASTER DDR4": {
+     "price": 1899,
+     "prev": 1899,
+     "chg": 0.0
+    },
+    "B760M H": {
+     "price": 659,
+     "prev": null,
+     "chg": null
+    }
+   },
+   "华擎 ASRock": {
+    "PCI-E 3.0": {
+     "price": 439,
+     "prev": 439,
+     "chg": 0.0
+    },
+    "USB2.0": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    },
+    "H110M-HDV Win7": {
+     "price": 399,
+     "prev": 399,
+     "chg": 0.0
+    },
+    "X370 Taichi 8": {
+     "price": 1699,
+     "prev": 1699,
+     "chg": 0.0
+    },
+    "X870E TaiChi WiFi": {
+     "price": 4299,
+     "prev": 4299,
+     "chg": 0.0
+    },
+    "USB3.1 Gen1": {
+     "price": 749,
+     "prev": 749,
+     "chg": 0.0
+    },
+    "AB350M-HDV Digi Power": {
+     "price": 399,
+     "prev": 399,
+     "chg": 0.0
+    },
+    "Z790 Pro RS": {
+     "price": 1899,
+     "prev": 1899,
+     "chg": 0.0
+    }
+   },
+   "七彩虹 COLORFUL": {
+    "BATTLE-AX B450M-T M.2 V14": {
+     "price": 420,
+     "prev": 420,
+     "chg": 0.0
+    },
+    "CVN B760M FROZEN WIFI D5 V20": {
+     "price": 1299,
+     "prev": 1299,
+     "chg": 0.0
+    },
+    "CVN B560M GAMING FROZEN V20": {
+     "price": 829,
+     "prev": 829,
+     "chg": 0.0
+    },
+    "BATTLE-AX B650M-D PRO V14": {
+     "price": 649,
+     "prev": 649,
+     "chg": 0.0
+    },
+    "PCI-E 3.0": {
+     "price": 329,
+     "prev": 329,
+     "chg": 0.0
+    },
+    "H610M-K M.2 V20": {
+     "price": 509,
+     "prev": 509,
+     "chg": 0.0
+    },
+    "B760 BATTLE-AX B760M-WHITE WIFI V20": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "H510M-K M.2 V20": {
+     "price": 569,
+     "prev": 569,
+     "chg": 0.0
+    }
+   },
+   "铭瑄 MAXSUN": {
+    "B760M D4 WIFI": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    },
+    "Realtek ALC662/CX20632 5.1": {
+     "price": 599,
+     "prev": 599,
+     "chg": 0.0
+    },
+    "B650M WiFi": {
+     "price": 729,
+     "prev": 729,
+     "chg": 0.0
+    },
+    "B450M": {
+     "price": 389,
+     "prev": 389,
+     "chg": 0.0
+    },
+    "B650M WIFI6": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "B760M D4": {
+     "price": 899,
+     "prev": 899,
+     "chg": 0.0
+    },
+    "H510M-H": {
+     "price": 399,
+     "prev": 399,
+     "chg": 0.0
+    },
+    "B760M": {
+     "price": 749,
+     "prev": 749,
+     "chg": 0.0
+    }
+   }
+  },
+  "内存": {
+   "金士顿 Kingston": {
+    "Renegade 32GB(16G*2) DDR5 6000": {
+     "price": 479,
+     "prev": 479,
+     "chg": 0.0
+    },
+    "KF560C40BB-32": {
+     "price": 759,
+     "prev": 759,
+     "chg": 0.0
+    },
+    "HX424C12SB/8": {
+     "price": 235,
+     "prev": 235,
+     "chg": 0.0
+    },
+    "XMP 2.0": {
+     "price": 470,
+     "prev": 470,
+     "chg": 0.0
+    },
+    "Renegade 16GB DDR5 6000": {
+     "price": 479,
+     "prev": 479,
+     "chg": 0.0
+    },
+    "KF560C40BBK2-64": {
+     "price": 1499,
+     "prev": 1499,
+     "chg": 0.0
+    },
+    "KVR16N11S8/4": {
+     "price": 229,
+     "prev": 229,
+     "chg": 0.0
+    },
+    "RGB DDR5 4800 32GB": {
+     "price": 829,
+     "prev": 829,
+     "chg": 0.0
+    }
+   },
+   "海盗船 Corsair": {
+    "XMP 2.0": {
+     "price": 260,
+     "prev": 260,
+     "chg": 0.0
+    },
+    "PC5-41600": {
+     "price": 749,
+     "prev": 749,
+     "chg": 0.0
+    },
+    "1.35V": {
+     "price": 245,
+     "prev": 245,
+     "chg": 0.0
+    },
+    "CMK8GX4M2B3000C15": {
+     "price": 314,
+     "prev": 314,
+     "chg": 0.0
+    }
+   },
+   "芝奇 G.Skill": {
+    "DDR5 6000": {
+     "price": 899,
+     "prev": 899,
+     "chg": 0.0
+    },
+    "DDR5 5600": {
+     "price": 899,
+     "prev": 899,
+     "chg": 0.0
+    },
+    "C30 EXPO": {
+     "price": 1899,
+     "prev": 1899,
+     "chg": 0.0
+    },
+    "F4-3600C18D-16GTRS": {
+     "price": 1049,
+     "prev": 1049,
+     "chg": 0.0
+    },
+    "DDR5 7200": {
+     "price": 1088,
+     "prev": 1088,
+     "chg": 0.0
+    },
+    "DDR5 6800": {
+     "price": 949,
+     "prev": 949,
+     "chg": 0.0
+    },
+    "DDR5 6400": {
+     "price": 789,
+     "prev": 789,
+     "chg": 0.0
+    },
+    "C36 EXPO": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    }
+   },
+   "威刚 ADATA": {
+    "D300 DDR5 6000 C30 16GB": {
+     "price": 415,
+     "prev": 415,
+     "chg": 0.0
+    },
+    "D500 DDR5 6000 16GB": {
+     "price": 429,
+     "prev": 429,
+     "chg": 0.0
+    },
+    "D500G DDR5 7200 64GB(32GBx2) RGB": {
+     "price": 2579,
+     "prev": 2579,
+     "chg": 0.0
+    },
+    "D300 DDR5 6400 64GB(32GBx2": {
+     "price": 1819,
+     "prev": 1819,
+     "chg": 0.0
+    },
+    "D300G DDR5 6000 16GB": {
+     "price": 469,
+     "prev": 469,
+     "chg": 0.0
+    },
+    "D500G DDR5 6000 32GB(16GBx2) RGB": {
+     "price": 979,
+     "prev": 979,
+     "chg": 0.0
+    },
+    "D300 DDR5 6000 C30 32GB(16GBx2": {
+     "price": 829,
+     "prev": 829,
+     "chg": 0.0
+    },
+    "D300 DDR5 6000 C36 16GB": {
+     "price": 405,
+     "prev": 405,
+     "chg": 0.0
+    }
+   },
+   "光威 GLOWAY": {
+    "2) CL36": {
+     "price": 649,
+     "prev": 649,
+     "chg": 0.0
+    },
+    "DDR5 5200 16GB XMP": {
+     "price": 259,
+     "prev": 259,
+     "chg": 0.0
+    },
+    "2) CL30": {
+     "price": 689,
+     "prev": 689,
+     "chg": 0.0
+    },
+    "2) CL34": {
+     "price": 849,
+     "prev": 849,
+     "chg": 0.0
+    },
+    "2) XMP": {
+     "price": 519,
+     "prev": 519,
+     "chg": 0.0
+    },
+    "XMP3.0": {
+     "price": 819,
+     "prev": 819,
+     "chg": 0.0
+    },
+    "DDR5 4800 16GB XMP": {
+     "price": 249,
+     "prev": 249,
+     "chg": 0.0
+    },
+    "M-die CL32": {
+     "price": 679,
+     "prev": 679,
+     "chg": 0.0
+    }
+   },
+   "十铨 Team": {
+    "EXPERT 32G(16G*2) DDR5 6000 DDR5": {
+     "price": 979,
+     "prev": 979,
+     "chg": 0.0
+    },
+    "PC4-25600 CL": {
+     "price": 339,
+     "prev": 339,
+     "chg": 0.0
+    },
+    "16G(8G*2) DDR4 3600 3600": {
+     "price": 3949,
+     "prev": 3949,
+     "chg": 0.0
+    },
+    "EXPERT 96G(48G*2) DDR5 6800 DDR5": {
+     "price": 3949,
+     "prev": 3949,
+     "chg": 0.0
+    },
+    "1.35V": {
+     "price": 159,
+     "prev": 159,
+     "chg": 0.0
+    },
+    "EXPERT 32G(16G*2) DDR5 6400 DDR5": {
+     "price": 929,
+     "prev": 929,
+     "chg": 0.0
+    },
+    "DELTA RGB 32G(16G*2) DDR5 7600 XMP3.0": {
+     "price": 1999,
+     "prev": 1999,
+     "chg": 0.0
+    },
+    "32G(16G*2) DDR5 5600 DDR5": {
+     "price": 689,
+     "prev": 689,
+     "chg": 0.0
+    }
+   }
+  },
+  "固态硬盘": {
+   "三星 SAMSUNG": {
+    "NVMe M.2": {
+     "price": 1299,
+     "prev": 1299,
+     "chg": 0.0
+    },
+    "PCIe5.0*2": {
+     "price": 679,
+     "prev": 679,
+     "chg": 0.0
+    },
+    "TurboWrite2.0": {
+     "price": 898,
+     "prev": 898,
+     "chg": 0.0
+    },
+    "3.84TB": {
+     "price": 5379,
+     "prev": 5379,
+     "chg": 0.0
+    },
+    "7.68TB": {
+     "price": 8879,
+     "prev": 8879,
+     "chg": 0.0
+    },
+    "PM1743 1.92TB": {
+     "price": 4599,
+     "prev": 4599,
+     "chg": 0.0
+    },
+    "3D-NAND": {
+     "price": 669,
+     "prev": 669,
+     "chg": 0.0
+    }
+   },
+   "西部数据 WD": {
+    "WD_BLACK SN850X 1TB": {
+     "price": 659,
+     "prev": 659,
+     "chg": 0.0
+    },
+    "nCache4.0": {
+     "price": 459,
+     "prev": 459,
+     "chg": 0.0
+    },
+    "3D-NAND": {
+     "price": 419,
+     "prev": 419,
+     "chg": 0.0
+    },
+    "WD_BLACK SN850X 2TB": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    },
+    "NVMe M.2": {
+     "price": 409,
+     "prev": 409,
+     "chg": 0.0
+    },
+    "150TBW": {
+     "price": 319,
+     "prev": 319,
+     "chg": 0.0
+    },
+    "WD_BLACK SN850X 4TB": {
+     "price": 3598,
+     "prev": 3598,
+     "chg": 0.0
+    },
+    "SATA3.0": {
+     "price": 269,
+     "prev": 269,
+     "chg": 0.0
+    }
+   },
+   "金士顿 Kingston": {
+    "Gen 4x4 NVMe PCIe": {
+     "price": 449,
+     "prev": 449,
+     "chg": 0.0
+    },
+    "SATA3.0": {
+     "price": 229,
+     "prev": 229,
+     "chg": 0.0
+    },
+    "NVMe M.2": {
+     "price": 239,
+     "prev": 239,
+     "chg": 0.0
+    },
+    "7.36g": {
+     "price": 1499,
+     "prev": 1499,
+     "chg": 0.0
+    },
+    "NV2 512GB M.2": {
+     "price": 319,
+     "prev": 319,
+     "chg": 0.0
+    },
+    "NV2 1TB M.2": {
+     "price": 459,
+     "prev": 459,
+     "chg": 0.0
+    },
+    "NV2 2TB M.2": {
+     "price": 949,
+     "prev": 949,
+     "chg": 0.0
+    }
+   },
+   "致态 ZhiTai": {
+    "PCIe5.0": {
+     "price": 2099,
+     "prev": 2099,
+     "chg": 0.0
+    },
+    "Xtacking3.0": {
+     "price": 1799,
+     "prev": 1799,
+     "chg": 0.0
+    },
+    "PCle Gen4.0x4": {
+     "price": 1099,
+     "prev": 1099,
+     "chg": 0.0
+    },
+    "M.2 2280": {
+     "price": 439,
+     "prev": 439,
+     "chg": 0.0
+    },
+    "Xtacking4.0": {
+     "price": 1089,
+     "prev": 1089,
+     "chg": 0.0
+    }
+   },
+   "铠侠 KIOXIA": {
+    "PS5 i35": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "45.5g": {
+     "price": 229,
+     "prev": 229,
+     "chg": 0.0
+    },
+    "45.7g": {
+     "price": 719,
+     "prev": 719,
+     "chg": 0.0
+    },
+    "M.2 2280": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    },
+    "BiCS FLASH 3D": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    },
+    "NVMe2.0c": {
+     "price": 1599,
+     "prev": 1599,
+     "chg": 0.0
+    },
+    "45.6g": {
+     "price": 375,
+     "prev": 375,
+     "chg": 0.0
+    },
+    "EXCERIA PLUS G3": {
+     "price": 399,
+     "prev": 399,
+     "chg": 0.0
+    }
+   }
+  },
+  "机械硬盘": {
+   "希捷 Seagate": {
+    "ST3000DM008": {
+     "price": 479,
+     "prev": 479,
+     "chg": 0.0
+    },
+    "ST1000DM010": {
+     "price": 269,
+     "prev": 269,
+     "chg": 0.0
+    },
+    "SATA3.0": {
+     "price": 1199,
+     "prev": 1199,
+     "chg": 0.0
+    },
+    "ST8000VN004": {
+     "price": 1999,
+     "prev": 1999,
+     "chg": 0.0
+    },
+    "ST1000LM048": {
+     "price": 279,
+     "prev": 279,
+     "chg": 0.0
+    },
+    "ST16000NM001G": {
+     "price": 5099,
+     "prev": 5099,
+     "chg": 0.0
+    },
+    "ST2000DM005": {
+     "price": 339,
+     "prev": 339,
+     "chg": 0.0
+    },
+    "ST4000VN006": {
+     "price": 699,
+     "prev": 699,
+     "chg": 0.0
+    }
+   },
+   "西部数据 WD": {
+    "WD40PURX": {
+     "price": 539,
+     "prev": 539,
+     "chg": 0.0
+    },
+    "WD20EZBX": {
+     "price": 355,
+     "prev": 355,
+     "chg": 0.0
+    },
+    "SATA3.0": {
+     "price": 525,
+     "prev": 525,
+     "chg": 0.0
+    },
+    "WD40EZRZ": {
+     "price": 525,
+     "prev": 525,
+     "chg": 0.0
+    },
+    "WD1003FZEX": {
+     "price": 599,
+     "prev": 599,
+     "chg": 0.0
+    },
+    "WD40EFPX": {
+     "price": 729,
+     "prev": 729,
+     "chg": 0.0
+    },
+    "SATA3.0 x1": {
+     "price": 1199,
+     "prev": 1199,
+     "chg": 0.0
+    },
+    "WD40NPZZ": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    }
+   },
+   "东芝 TOSHIBA": {
+    "MQ04ABF100": {
+     "price": 249,
+     "prev": 249,
+     "chg": 0.0
+    },
+    "HDWD110 ATA3": {
+     "price": 269,
+     "prev": 269,
+     "chg": 0.0
+    },
+    "HDWD120": {
+     "price": 419,
+     "prev": 419,
+     "chg": 0.0
+    },
+    "DT01ACA100": {
+     "price": 235,
+     "prev": 235,
+     "chg": 0.0
+    },
+    "4.17ms": {
+     "price": 569,
+     "prev": 569,
+     "chg": 0.0
+    },
+    "MQ04ABD200": {
+     "price": 369,
+     "prev": 369,
+     "chg": 0.0
+    },
+    "SATA3.0 x1": {
+     "price": 519,
+     "prev": 519,
+     "chg": 0.0
+    },
+    "MD04ACA400": {
+     "price": 769,
+     "prev": 769,
+     "chg": 0.0
+    }
+   }
+  },
+  "电源": {
+   "海韵 Seasonic": {
+    "80PLUS": {
+     "price": 1079,
+     "prev": 1079,
+     "chg": 0.0
+    },
+    "VERTEX PX-1000": {
+     "price": 1599,
+     "prev": 1599,
+     "chg": 0.0
+    },
+    "vertex gx-1200": {
+     "price": 1799,
+     "prev": 1799,
+     "chg": 0.0
+    },
+    "CybeneticsATX3": {
+     "price": 1574,
+     "prev": 1574,
+     "chg": 0.0
+    },
+    "Core GX750(ATX3": {
+     "price": 899,
+     "prev": 899,
+     "chg": 0.0
+    },
+    "ATX3.1": {
+     "price": 1149,
+     "prev": 1149,
+     "chg": 0.0
+    },
+    "PX-1200 1200W ATX3": {
+     "price": 2099,
+     "prev": 2099,
+     "chg": 0.0
+    },
+    "Core GX650(ATX3": {
+     "price": 599,
+     "prev": 599,
+     "chg": 0.0
+    }
+   },
+   "振华 SuperFlower": {
+    "80PLUS": {
+     "price": 699,
+     "prev": 699,
+     "chg": 0.0
+    },
+    "LEADEX G750": {
+     "price": 839,
+     "prev": 839,
+     "chg": 0.0
+    },
+    "LEADEX III ATX3.1 850W ATX3.1": {
+     "price": 758,
+     "prev": 758,
+     "chg": 0.0
+    },
+    "LEADEX VII 1000W": {
+     "price": 1199,
+     "prev": 1199,
+     "chg": 0.0
+    },
+    "LEADEX G650": {
+     "price": 739,
+     "prev": 739,
+     "chg": 0.0
+    },
+    "LEADEX III ATX3.1 650W ATX3.1": {
+     "price": 598,
+     "prev": 598,
+     "chg": 0.0
+    },
+    "ATX 12V": {
+     "price": 1199,
+     "prev": 1199,
+     "chg": 0.0
+    },
+    "LEADEX VII 1200W": {
+     "price": 1799,
+     "prev": 1799,
+     "chg": 0.0
+    }
+   },
+   "航嘉 Huntkey": {
+    "WD750K": {
+     "price": 479,
+     "prev": 479,
+     "chg": 0.0
+    },
+    "PCIe5.0": {
+     "price": 899,
+     "prev": 899,
+     "chg": 0.0
+    },
+    "WD850K": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "WD500K": {
+     "price": 299,
+     "prev": 299,
+     "chg": 0.0
+    },
+    "PCIE5.1": {
+     "price": 564,
+     "prev": null,
+     "chg": null
+    },
+    "ATX3.1": {
+     "price": 439,
+     "prev": 439,
+     "chg": 0.0
+    },
+    "80PLUS": {
+     "price": 799,
+     "prev": 499,
+     "chg": 60.1
+    },
+    ",80PLUS": {
+     "price": 229,
+     "prev": 229,
+     "chg": 0.0
+    }
+   },
+   "先马 SAMA": {
+    "GTX-650-L": {
+     "price": 235,
+     "prev": 235,
+     "chg": 0.0
+    },
+    "750 V2": {
+     "price": 699,
+     "prev": 699,
+     "chg": 0.0
+    },
+    "635 12cm": {
+     "price": 199,
+     "prev": 199,
+     "chg": 0.0
+    },
+    "xf750w": {
+     "price": 659,
+     "prev": null,
+     "chg": null
+    },
+    "ATX 12V 2.31": {
+     "price": 389,
+     "prev": 389,
+     "chg": 0.0
+    },
+    "1000 V2": {
+     "price": 979,
+     "prev": 979,
+     "chg": 0.0
+    },
+    "ATX3.0": {
+     "price": 899,
+     "prev": 899,
+     "chg": 0.0
+    },
+    "KTX-1000-R": {
+     "price": 1059,
+     "prev": 1059,
+     "chg": 0.0
+    }
+   },
+   "海盗船 Corsair": {
+    "RM1000x": {
+     "price": 1359,
+     "prev": 1359,
+     "chg": 0.0
+    },
+    "AX1600i": {
+     "price": 3449,
+     "prev": 3449,
+     "chg": 0.0
+    },
+    "RM650x": {
+     "price": 680,
+     "prev": 680,
+     "chg": 0.0
+    },
+    "RM750x 13.5cm": {
+     "price": 770,
+     "prev": 770,
+     "chg": 0.0
+    },
+    "RM850x": {
+     "price": 900,
+     "prev": 900,
+     "chg": 0.0
+    },
+    "CX750F RGB": {
+     "price": 499,
+     "prev": 499,
+     "chg": 0.0
+    },
+    "80PLUS": {
+     "price": 699,
+     "prev": 699,
+     "chg": 0.0
+    },
+    "VS500": {
+     "price": 279,
+     "prev": 279,
+     "chg": 0.0
+    }
+   },
+   "酷冷至尊 CoolerMaster": {
+    "ATX 12V 2.41": {
+     "price": 569,
+     "prev": 569,
+     "chg": 0.0
+    },
+    "GX PLATINUM 850": {
+     "price": 539,
+     "prev": 539,
+     "chg": 0.0
+    },
+    "80PLUS": {
+     "price": 699,
+     "prev": 699,
+     "chg": 0.0
+    },
+    "ATX 12V 2.52": {
+     "price": 649,
+     "prev": 649,
+     "chg": 0.0
+    },
+    "ATX 12V V2.31": {
+     "price": 599,
+     "prev": 599,
+     "chg": 0.0
+    },
+    "GX Bronze 650 V2": {
+     "price": 294,
+     "prev": null,
+     "chg": null
+    },
+    "GX Bronze 850 V2": {
+     "price": 384,
+     "prev": 384,
+     "chg": 0.0
+    },
+    "GX1250 ATX3.0": {
+     "price": 1399,
+     "prev": 1399,
+     "chg": 0.0
+    }
+   },
+   "安钛克 Antec": {
+    "ANTEC VP350P": {
+     "price": 199,
+     "prev": 199,
+     "chg": 0.0
+    },
+    "ATX 12V": {
+     "price": 699,
+     "prev": 699,
+     "chg": 0.0
+    },
+    "ANTEC AP500": {
+     "price": 259,
+     "prev": 259,
+     "chg": 0.0
+    },
+    "200-240V": {
+     "price": 179,
+     "prev": 179,
+     "chg": 0.0
+    },
+    "ANTEC VP500P": {
+     "price": 269,
+     "prev": 269,
+     "chg": 0.0
+    },
+    "ANTEC VP550P V2": {
+     "price": 309,
+     "prev": 309,
+     "chg": 0.0
+    },
+    "HCG1000W": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "BP 750 GOLD": {
+     "price": 549,
+     "prev": null,
+     "chg": null
+    }
+   }
+  },
+  "机箱": {
+   "联力 LIANLI": {
+    "O11D EVO": {
+     "price": 1049,
+     "prev": 1049,
+     "chg": 0.0
+    },
+    "L216R 360": {
+     "price": 599,
+     "prev": 599,
+     "chg": 0.0
+    },
+    "x1 x1": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "V3000 Plus": {
+     "price": 3999,
+     "prev": 3999,
+     "chg": 0.0
+    },
+    "O11 Vision Compact": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "O11D EVO RGB": {
+     "price": 649,
+     "prev": 649,
+     "chg": 0.0
+    },
+    "O11D MINI V2": {
+     "price": 574,
+     "prev": 574,
+     "chg": 0.0
+    },
+    "x1 Type-C x1": {
+     "price": 899,
+     "prev": null,
+     "chg": null
+    }
+   },
+   "酷冷至尊 CoolerMaster": {
+    "HAF 500": {
+     "price": 724,
+     "prev": 724,
+     "chg": 0.0
+    },
+    "U2 U3": {
+     "price": 729,
+     "prev": 729,
+     "chg": 0.0
+    },
+    "x1 x1": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    },
+    "USB3.0 Type-A x4": {
+     "price": 3599,
+     "prev": 3599,
+     "chg": 0.0
+    },
+    "HAF700EVO EATX 480": {
+     "price": 3099,
+     "prev": 3099,
+     "chg": 0.0
+    },
+    "USB3.2 x4 Type-C x1": {
+     "price": 2999,
+     "prev": 2999,
+     "chg": 0.0
+    },
+    "MasterCase Pro 5": {
+     "price": 699,
+     "prev": 699,
+     "chg": 0.0
+    },
+    "USB3.0": {
+     "price": 499,
+     "prev": 499,
+     "chg": 0.0
+    }
+   },
+   "追风者 Phanteks": {
+    "P500A PH-EC500ATG": {
+     "price": 599,
+     "prev": 599,
+     "chg": 0.0
+    },
+    "x1 x1": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    },
+    "3.0x2,USB2.0x2": {
+     "price": 499,
+     "prev": 499,
+     "chg": 0.0
+    },
+    "x2,Type-C x1": {
+     "price": 1089,
+     "prev": 1089,
+     "chg": 0.0
+    },
+    "x1 RGB": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    },
+    "Phanteks G400A": {
+     "price": 499,
+     "prev": 499,
+     "chg": 0.0
+    },
+    "Phanteks PK620": {
+     "price": 1299,
+     "prev": 1299,
+     "chg": 0.0
+    },
+    "USB3.0x2": {
+     "price": 499,
+     "prev": 499,
+     "chg": 0.0
+    }
+   },
+   "恩杰 NZXT": {
+    "NZXT H6 FLOW RGB": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "x1 x1": {
+     "price": 1299,
+     "prev": 1299,
+     "chg": 0.0
+    },
+    "NZXT H5 Flow RGB": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "NZXT H1": {
+     "price": 1999,
+     "prev": 1999,
+     "chg": 0.0
+    },
+    "NZXT H7Elite": {
+     "price": 1399,
+     "prev": 1399,
+     "chg": 0.0
+    },
+    "NZXT H7 Flow RGB": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    },
+    "NZXT H710i Cyberpunk": {
+     "price": 2999,
+     "prev": null,
+     "chg": null
+    },
+    "x2 x1": {
+     "price": 1299,
+     "prev": 1299,
+     "chg": 0.0
+    }
+   },
+   "安钛克 Antec": {
+    "P20CE TYPE-C": {
+     "price": 499,
+     "prev": 499,
+     "chg": 0.0
+    },
+    "x1 x1": {
+     "price": 459,
+     "prev": 459,
+     "chg": 0.0
+    },
+    "ABS 3.5": {
+     "price": 479,
+     "prev": 479,
+     "chg": 0.0
+    },
+    "GX900 3cm": {
+     "price": 204,
+     "prev": 204,
+     "chg": 0.0
+    },
+    "Performance1 FT": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "NX 200M": {
+     "price": 179,
+     "prev": 179,
+     "chg": 0.0
+    },
+    "x1 5.25": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    },
+    "RTX 40": {
+     "price": 399,
+     "prev": 399,
+     "chg": 0.0
+    }
+   },
+   "爱国者 aigo": {
+    "F30 E-ATX,ATX": {
+     "price": 159,
+     "prev": 159,
+     "chg": 0.0
+    },
+    "X3 E-ATX": {
+     "price": 329,
+     "prev": 329,
+     "chg": 0.0
+    },
+    "YOGO T21 ATX": {
+     "price": 139,
+     "prev": 139,
+     "chg": 0.0
+    },
+    "W60 MATX": {
+     "price": 279,
+     "prev": 279,
+     "chg": 0.0
+    },
+    "YOGO M8 PRO": {
+     "price": 239,
+     "prev": 239,
+     "chg": 0.0
+    },
+    "YOGO Q1": {
+     "price": 229,
+     "prev": 229,
+     "chg": 0.0
+    },
+    "YOGO Q1 T16": {
+     "price": 229,
+     "prev": null,
+     "chg": null
+    },
+    "YOGO Z1 EEB": {
+     "price": 1299,
+     "prev": 1299,
+     "chg": 0.0
+    }
+   },
+   "乔思伯 JONSBO": {
+    "1.0+1.2mm SGCC": {
+     "price": 549,
+     "prev": 549,
+     "chg": 0.0
+    },
+    "x1 x1": {
+     "price": 299,
+     "prev": 299,
+     "chg": 0.0
+    },
+    "N4 M-ATX": {
+     "price": 599,
+     "prev": 599,
+     "chg": 0.0
+    },
+    "N3 ITX": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "x1 Type-C x1 x1": {
+     "price": 699,
+     "prev": 699,
+     "chg": 0.0
+    },
+    "x2 HD Audio x1 MIC x1": {
+     "price": 279,
+     "prev": 279,
+     "chg": 0.0
+    },
+    "Type-c Gen2 10Gbps": {
+     "price": 569,
+     "prev": 569,
+     "chg": 0.0
+    },
+    "TK-1 2.0": {
+     "price": 598,
+     "prev": null,
+     "chg": null
+    }
+   },
+   "航嘉 Huntkey": {
+    "GX750A": {
+     "price": 189,
+     "prev": 189,
+     "chg": 0.0
+    },
+    "x1 x1": {
+     "price": 129,
+     "prev": 129,
+     "chg": 0.0
+    },
+    "S960V2": {
+     "price": 184,
+     "prev": 184,
+     "chg": 0.0
+    },
+    "GS680C": {
+     "price": 189,
+     "prev": 189,
+     "chg": 0.0
+    },
+    "GS550C": {
+     "price": 179,
+     "prev": 179,
+     "chg": 0.0
+    },
+    "x1 BU420": {
+     "price": 199,
+     "prev": null,
+     "chg": null
+    },
+    "GS450S": {
+     "price": 169,
+     "prev": 169,
+     "chg": 0.0
+    },
+    "GX760A": {
+     "price": 249,
+     "prev": 249,
+     "chg": 0.0
+    }
+   }
+  },
+  "散热器": {
+   "利民 Thermalright": {
+    "PA120 SE": {
+     "price": 179,
+     "prev": 179,
+     "chg": 0.0
+    },
+    "AX120R SE Am4": {
+     "price": 89,
+     "prev": 89,
+     "chg": 0.0
+    },
+    "AQUA ELITE 240 WHITE V3": {
+     "price": 269,
+     "prev": 269,
+     "chg": 0.0
+    },
+    "PA120 SE ARGB": {
+     "price": 214,
+     "prev": 214,
+     "chg": 0.0
+    },
+    "120gg": {
+     "price": 64,
+     "prev": 64,
+     "chg": 0.0
+    },
+    "AQUA ELITE 240 BLACK V2 ARGB": {
+     "price": 269,
+     "prev": 269,
+     "chg": 0.0
+    },
+    "AQUA ELITE 360 BLACK V2 ARGB": {
+     "price": 399,
+     "prev": 399,
+     "chg": 0.0
+    },
+    "FC140": {
+     "price": 419,
+     "prev": 419,
+     "chg": 0.0
+    }
+   },
+   "九州风神 DeepCool": {
+    "400i cpu": {
+     "price": 59,
+     "prev": 59,
+     "chg": 0.0
+    },
+    "400 WH": {
+     "price": 159,
+     "prev": 159,
+     "chg": 0.0
+    },
+    "500 ARGB": {
+     "price": 139,
+     "prev": 139,
+     "chg": 0.0
+    },
+    "360 ARGB": {
+     "price": 299,
+     "prev": 299,
+     "chg": 0.0
+    },
+    "360 ARGB AN600": {
+     "price": 199,
+     "prev": 199,
+     "chg": 0.0
+    },
+    "400V5 CPU": {
+     "price": 109,
+     "prev": 109,
+     "chg": 0.0
+    },
+    "620 WH": {
+     "price": 299,
+     "prev": 299,
+     "chg": 0.0
+    },
+    "ARGB V5": {
+     "price": 85,
+     "prev": 85,
+     "chg": 0.0
+    }
+   },
+   "猫头鹰 Noctua": {
+    "NF-F12": {
+     "price": 180,
+     "prev": 180,
+     "chg": 0.0
+    },
+    "10%RPM": {
+     "price": 130,
+     "prev": 130,
+     "chg": 0.0
+    },
+    "NH-D15 G2": {
+     "price": 1199,
+     "prev": 1199,
+     "chg": 0.0
+    },
+    "NH-D14": {
+     "price": 549,
+     "prev": 549,
+     "chg": 0.0
+    },
+    "2.61mmaq": {
+     "price": 199,
+     "prev": 199,
+     "chg": 0.0
+    },
+    "NH-L9i": {
+     "price": 300,
+     "prev": 300,
+     "chg": 0.0
+    },
+    "NH-U14S DX-4677": {
+     "price": 919,
+     "prev": 919,
+     "chg": 0.0
+    },
+    "A12x25": {
+     "price": 839,
+     "prev": 839,
+     "chg": 0.0
+    }
+   },
+   "瓦尔基里 Valkyrie": {
+    "B360-GT 3.95": {
+     "price": 554,
+     "prev": 554,
+     "chg": 0.0
+    },
+    "C360 VALKYRIE VK": {
+     "price": 589,
+     "prev": 589,
+     "chg": 0.0
+    },
+    "GL360 VK ARGB": {
+     "price": 769,
+     "prev": 769,
+     "chg": 0.0
+    },
+    "CQ125 ARGB BLACK 6": {
+     "price": 129,
+     "prev": 129,
+     "chg": 0.0
+    },
+    "GLA360 WHITE": {
+     "price": 409,
+     "prev": 409,
+     "chg": 0.0
+    },
+    "AQ125 WHITE": {
+     "price": 89,
+     "prev": 89,
+     "chg": 0.0
+    },
+    "DQ125 BLACK": {
+     "price": 139,
+     "prev": null,
+     "chg": null
+    },
+    "CQ125 BLACK 6": {
+     "price": 109,
+     "prev": 109,
+     "chg": 0.0
+    }
+   },
+   "海盗船 Corsair": {
+    "75CFM": {
+     "price": 1199,
+     "prev": 1199,
+     "chg": 0.0
+    },
+    "SP120L PWM": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "77CFM": {
+     "price": 859,
+     "prev": 859,
+     "chg": 0.0
+    },
+    "AM4/AM3/AM2": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "97CFM": {
+     "price": 249,
+     "prev": 249,
+     "chg": 0.0
+    },
+    "70.69CFM": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    },
+    "10%RPM": {
+     "price": 329,
+     "prev": 329,
+     "chg": 0.0
+    },
+    "AM2/AM3/AM4/FM1/FM2": {
+     "price": 890,
+     "prev": 890,
+     "chg": 0.0
+    }
+   },
+   "酷冷至尊 CoolerMaster": {
+    "B360 Core ARGB": {
+     "price": 349,
+     "prev": 349,
+     "chg": 0.0
+    },
+    "T620S": {
+     "price": 169,
+     "prev": 169,
+     "chg": 0.0
+    },
+    "360L ARGB": {
+     "price": 339,
+     "prev": 339,
+     "chg": 0.0
+    },
+    "T620H": {
+     "price": 299,
+     "prev": 299,
+     "chg": 0.0
+    },
+    "Hyper 612 APEX": {
+     "price": 364,
+     "prev": 364,
+     "chg": 0.0
+    },
+    "10%CFM": {
+     "price": 49,
+     "prev": 49,
+     "chg": 0.0
+    },
+    "RR-V8VC-16PR-R1": {
+     "price": 599,
+     "prev": 599,
+     "chg": 0.0
+    },
+    "10%RPM": {
+     "price": 89,
+     "prev": 89,
+     "chg": 0.0
+    }
+   }
+  },
+  "显示器": {
+   "三星 SAMSUNG": {
+    "S27FG902XC 4K": {
+     "price": 15999,
+     "prev": 15999,
+     "chg": 0.0
+    },
+    "C27F591FDC 1800R": {
+     "price": 979,
+     "prev": 979,
+     "chg": 0.0
+    },
+    "U32J590UQC 4K": {
+     "price": 2399,
+     "prev": 2399,
+     "chg": 0.0
+    },
+    "C27F390FHC 1800R": {
+     "price": 1149,
+     "prev": 1149,
+     "chg": 0.0
+    },
+    "LS27DG610SBXXF": {
+     "price": 3299,
+     "prev": 3299,
+     "chg": 0.0
+    },
+    "S22F350FH 16.7M": {
+     "price": 929,
+     "prev": 929,
+     "chg": 0.0
+    },
+    "0.03ms": {
+     "price": 4299,
+     "prev": null,
+     "chg": null
+    },
+    "AMD FreeSync 2": {
+     "price": 9999,
+     "prev": null,
+     "chg": null
+    }
+   },
+   "LG LG": {
+    "27'' LG 27G411B": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "34'' LG 34WK95U 5K": {
+     "price": 8999,
+     "prev": 8999,
+     "chg": 0.0
+    },
+    "27'' LG 27GP850 10.7": {
+     "price": 3999,
+     "prev": 3999,
+     "chg": 0.0
+    },
+    "31'' LG 32GQ950-B 4K": {
+     "price": 11099,
+     "prev": 11099,
+     "chg": 0.0
+    },
+    "27'' LG 27GP83B": {
+     "price": 3699,
+     "prev": 3699,
+     "chg": 0.0
+    },
+    "16.7M": {
+     "price": 3299,
+     "prev": 3299,
+     "chg": 0.0
+    },
+    "29'' LG 29WP500": {
+     "price": 1399,
+     "prev": null,
+     "chg": null
+    },
+    "27'' LG 27G64NA 2K": {
+     "price": 1297,
+     "prev": null,
+     "chg": null
+    }
+   },
+   "戴尔 Dell": {
+    "P2419H 1080P": {
+     "price": 1699,
+     "prev": 1699,
+     "chg": 0.0
+    },
+    "1080P": {
+     "price": 1599,
+     "prev": 1599,
+     "chg": 0.0
+    },
+    "D2421H IPS": {
+     "price": 599,
+     "prev": 599,
+     "chg": 0.0
+    },
+    "P2317H": {
+     "price": 998,
+     "prev": 998,
+     "chg": 0.0
+    },
+    "U2718Q HDR": {
+     "price": 3679,
+     "prev": 3679,
+     "chg": 0.0
+    },
+    "U2723QE": {
+     "price": 4399,
+     "prev": 4399,
+     "chg": 0.0
+    },
+    "16.7M": {
+     "price": 619,
+     "prev": 619,
+     "chg": 0.0
+    },
+    "U2724D": {
+     "price": 2799,
+     "prev": 2799,
+     "chg": 0.0
+    }
+   },
+   "AOC AOC": {
+    "27'' AOC U2790PQU 4K": {
+     "price": 1999,
+     "prev": 1999,
+     "chg": 0.0
+    },
+    "27'' AOC 27B30H": {
+     "price": 699,
+     "prev": 699,
+     "chg": 0.0
+    },
+    "23'' AOC 24B35H": {
+     "price": 499,
+     "prev": 499,
+     "chg": 0.0
+    },
+    "27'' AOC 27G2 IPS": {
+     "price": 1299,
+     "prev": 1299,
+     "chg": 0.0
+    },
+    "27'' AOC Q27B30": {
+     "price": 779,
+     "prev": 779,
+     "chg": 0.0
+    },
+    "1080p": {
+     "price": 1049,
+     "prev": 1049,
+     "chg": 0.0
+    },
+    "34'' AOC CU34G2X": {
+     "price": 2599,
+     "prev": null,
+     "chg": null
+    },
+    "27'' AOC Q27G4": {
+     "price": 1599,
+     "prev": 1599,
+     "chg": 0.0
+    }
+   },
+   "华硕 ASUS": {
+    "ROG XG27ACS 2K": {
+     "price": 1699,
+     "prev": 1699,
+     "chg": 0.0
+    },
+    "VA249HG-R": {
+     "price": 549,
+     "prev": 549,
+     "chg": 0.0
+    },
+    "ROG XG279Q": {
+     "price": 4199,
+     "prev": 4199,
+     "chg": 0.0
+    },
+    "PG32UCDM": {
+     "price": 10999,
+     "prev": 10999,
+     "chg": 0.0
+    },
+    "TUF Gaming VG289Q1A 4K": {
+     "price": 2299,
+     "prev": 2299,
+     "chg": 0.0
+    },
+    "16.7M": {
+     "price": 1699,
+     "prev": 1699,
+     "chg": 0.0
+    },
+    "TUF GAMING VG249Q1A IPS": {
+     "price": 1150,
+     "prev": 1150,
+     "chg": 0.0
+    },
+    "TUF VG27AQML1A": {
+     "price": 1998,
+     "prev": 1998,
+     "chg": 0.0
+    }
+   },
+   "微星 MSI": {
+    "MAG 321UPX QD-OLED 4K": {
+     "price": 6999,
+     "prev": 6999,
+     "chg": 0.0
+    },
+    "MAG 341CQP QD-OLED": {
+     "price": 6499,
+     "prev": 6499,
+     "chg": 0.0
+    },
+    "Modern MD271UL": {
+     "price": 1499,
+     "prev": 1499,
+     "chg": 0.0
+    },
+    "MAG 274QRFW 2K": {
+     "price": 1799,
+     "prev": 1799,
+     "chg": 0.0
+    },
+    "MPG 321URX QD-OLED 4K": {
+     "price": 7999,
+     "prev": 7999,
+     "chg": 0.0
+    },
+    "G274QRFW": {
+     "price": 1899,
+     "prev": 1899,
+     "chg": 0.0
+    },
+    "MAG Optix G273QPF": {
+     "price": 2099,
+     "prev": 2099,
+     "chg": 0.0
+    },
+    "MAG 274URFW": {
+     "price": 2299,
+     "prev": null,
+     "chg": null
+    }
+   },
+   "优派 ViewSonic": {
+    "VX24G26J-4K 4K": {
+     "price": 2599,
+     "prev": 2599,
+     "chg": 0.0
+    },
+    "VA24G25": {
+     "price": 399,
+     "prev": 399,
+     "chg": 0.0
+    },
+    "VX27G58-2K": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "VG2781-4K": {
+     "price": 1899,
+     "prev": 1899,
+     "chg": 0.0
+    },
+    "VA2462-4K-HD": {
+     "price": 1199,
+     "prev": 1199,
+     "chg": 0.0
+    },
+    "VX3209-2K": {
+     "price": 1999,
+     "prev": 1999,
+     "chg": 0.0
+    },
+    "VP2468": {
+     "price": 1599,
+     "prev": 1599,
+     "chg": 0.0
+    },
+    "16.7M": {
+     "price": 2988,
+     "prev": 2988,
+     "chg": 0.0
+    }
+   },
+   "HKC HKC": {
+    "27'' HKC T2755U 4K": {
+     "price": 1499,
+     "prev": 1499,
+     "chg": 0.0
+    },
+    "27'' HKC SG27QC 1800R": {
+     "price": 1499,
+     "prev": 1499,
+     "chg": 0.0
+    },
+    "27'' HKC G27M7Pro": {
+     "price": 3999,
+     "prev": 3999,
+     "chg": 0.0
+    },
+    "23'' HKC G24H3S": {
+     "price": 699,
+     "prev": 699,
+     "chg": 0.0
+    },
+    "27'' HKC G27H4Plus FastIPS": {
+     "price": 1199,
+     "prev": 1199,
+     "chg": 0.0
+    },
+    "24'' HKC V2511 IPS": {
+     "price": 499,
+     "prev": null,
+     "chg": null
+    },
+    "27'' HKC GS27QKS QD-OLED": {
+     "price": 1999,
+     "prev": 1999,
+     "chg": 0.0
+    },
+    "27'' HKC T2752U 4K": {
+     "price": 1299,
+     "prev": 1299,
+     "chg": 0.0
+    }
+   },
+   "飞利浦 Philips": {
+    "279C9 4K": {
+     "price": 3199,
+     "prev": 3199,
+     "chg": 0.0
+    },
+    "24E2N1100": {
+     "price": 649,
+     "prev": 649,
+     "chg": 0.0
+    },
+    "279M1RVE 4K": {
+     "price": 7999,
+     "prev": 7999,
+     "chg": 0.0
+    },
+    "BDM4350UC 4K": {
+     "price": 2899,
+     "prev": 2899,
+     "chg": 0.0
+    },
+    "27E2N2100W": {
+     "price": 749,
+     "prev": 749,
+     "chg": 0.0
+    },
+    "27E2N1500L": {
+     "price": 699,
+     "prev": 699,
+     "chg": 0.0
+    },
+    "27M2N3500PF 2K": {
+     "price": 1349,
+     "prev": 1349,
+     "chg": 0.0
+    },
+    "32E1S5900 4K": {
+     "price": 1999,
+     "prev": null,
+     "chg": null
+    }
+   },
+   "明基 BenQ": {
+    "EW2880U 4K": {
+     "price": 3699,
+     "prev": 3699,
+     "chg": 0.0
+    },
+    "GW2480 16.7M": {
+     "price": 1049,
+     "prev": 1049,
+     "chg": 0.0
+    },
+    "16.7M": {
+     "price": 2399,
+     "prev": 2399,
+     "chg": 0.0
+    },
+    "EW3270U 4K": {
+     "price": 3199,
+     "prev": 3199,
+     "chg": 0.0
+    },
+    "PD2700Q 178": {
+     "price": 2499,
+     "prev": 2499,
+     "chg": 0.0
+    },
+    "PD2705U 4K": {
+     "price": 4199,
+     "prev": 4199,
+     "chg": 0.0
+    },
+    "RD240Q": {
+     "price": 3199,
+     "prev": 3199,
+     "chg": 0.0
+    },
+    "BL2420PT 2K": {
+     "price": 1549,
+     "prev": null,
+     "chg": null
+    }
+   }
+  },
+  "键盘": {
+   "罗技 Logitech": {
+    "F1-F12": {
+     "price": 489,
+     "prev": 489,
+     "chg": 0.0
+    },
+    "Windows 7": {
+     "price": 489,
+     "prev": 489,
+     "chg": 0.0
+    },
+    "K400 Plus": {
+     "price": 149,
+     "prev": 149,
+     "chg": 0.0
+    },
+    "G710+Blue": {
+     "price": 889,
+     "prev": 889,
+     "chg": 0.0
+    },
+    "G710+": {
+     "price": 749,
+     "prev": 749,
+     "chg": 0.0
+    },
+    "ALTO KEYS K75M K75M": {
+     "price": 499,
+     "prev": 499,
+     "chg": 0.0
+    },
+    "G412TKL": {
+     "price": 399,
+     "prev": 399,
+     "chg": 0.0
+    },
+    "G213 RGB": {
+     "price": 399,
+     "prev": 399,
+     "chg": 0.0
+    }
+   },
+   "雷蛇 Razer": {
+    "Windows 7": {
+     "price": 699,
+     "prev": 699,
+     "chg": 0.0
+    },
+    "V3 HALO": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    }
+   },
+   "高斯 GANSS": {
+    "GANSS GS3104T": {
+     "price": 287,
+     "prev": 287,
+     "chg": 0.0
+    },
+    "GS-Y87": {
+     "price": 899,
+     "prev": 899,
+     "chg": 0.0
+    },
+    "1250.9g": {
+     "price": 409,
+     "prev": 409,
+     "chg": 0.0
+    },
+    "GANSS GS3087T": {
+     "price": 245,
+     "prev": 245,
+     "chg": 0.0
+    },
+    "GANSS GS3098T": {
+     "price": 279,
+     "prev": 279,
+     "chg": 0.0
+    },
+    "GANSS GS3098T KTT": {
+     "price": 319,
+     "prev": 279,
+     "chg": 14.3
+    },
+    "GANSS GS3075T GASKET": {
+     "price": 259,
+     "prev": null,
+     "chg": null
+    },
+    "GANSS GS3087T-PRO KTT": {
+     "price": 309,
+     "prev": 309,
+     "chg": 0.0
+    }
+   },
+   "RK RK": {
+    "RK R87": {
+     "price": 202,
+     "prev": 202,
+     "chg": 0.0
+    },
+    "RK 860": {
+     "price": 337,
+     "prev": 337,
+     "chg": 0.0
+    },
+    "RK G98": {
+     "price": 337,
+     "prev": 337,
+     "chg": 0.0
+    },
+    "RK Side108": {
+     "price": 329,
+     "prev": 329,
+     "chg": 0.0
+    },
+    "RK RK98": {
+     "price": 354,
+     "prev": 354,
+     "chg": 0.0
+    },
+    "V2 99": {
+     "price": 249,
+     "prev": 249,
+     "chg": 0.0
+    },
+    "RK SINK87": {
+     "price": 269,
+     "prev": 269,
+     "chg": 0.0
+    },
+    "RK H87": {
+     "price": 329,
+     "prev": 329,
+     "chg": 0.0
+    }
+   },
+   "樱桃 Cherry": {
+    "Cherry G80-3000LXCEU-2": {
+     "price": 709,
+     "prev": 709,
+     "chg": 0.0
+    },
+    "Cherry G80-3000LXCEU-0": {
+     "price": 709,
+     "prev": 709,
+     "chg": 0.0
+    },
+    "Cherry MX board2.0": {
+     "price": 439,
+     "prev": 439,
+     "chg": 0.0
+    },
+    "Cherry MX board 2.0 G80-3800": {
+     "price": 399,
+     "prev": 399,
+     "chg": 0.0
+    },
+    "Cherry MX board 9.0 RGB": {
+     "price": 1399,
+     "prev": 1399,
+     "chg": 0.0
+    },
+    "Cherry G80-3494LYCUS-2": {
+     "price": 890,
+     "prev": 890,
+     "chg": 0.0
+    },
+    "Cherry MX board 5.0": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    },
+    "Cherry MX board 6.0 G80-3931LSAEU-2": {
+     "price": 1399,
+     "prev": null,
+     "chg": null
+    }
+   }
+  },
+  "鼠标": {
+   "罗技 Logitech": {
+    "G304Lightspeed": {
+     "price": 229,
+     "prev": 229,
+     "chg": 0.0
+    },
+    "PMW3366": {
+     "price": 109,
+     "prev": 109,
+     "chg": 0.0
+    },
+    "HERO2": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "G403 PMW3366": {
+     "price": 349,
+     "prev": 349,
+     "chg": 0.0
+    },
+    "HERO 2": {
+     "price": 1999,
+     "prev": 1999,
+     "chg": 0.0
+    },
+    "M100R": {
+     "price": 45,
+     "prev": 45,
+     "chg": 0.0
+    },
+    "G304X": {
+     "price": 199,
+     "prev": 199,
+     "chg": 0.0
+    },
+    "M750L": {
+     "price": 249,
+     "prev": 249,
+     "chg": 0.0
+    }
+   },
+   "雷蛇 Razer": {
+    "v4pro": {
+     "price": 1349,
+     "prev": 1349,
+     "chg": 0.0
+    },
+    "RZ01-03410100-R3M1": {
+     "price": 576,
+     "prev": 576,
+     "chg": 0.0
+    },
+    "RAZER3.5G": {
+     "price": 199,
+     "prev": 199,
+     "chg": 0.0
+    }
+   }
+  },
+  "音箱": {
+   "漫步者 Edifier": {
+    "S2.1M": {
+     "price": 789,
+     "prev": 789,
+     "chg": 0.0
+    },
+    "R101V": {
+     "price": 149,
+     "prev": 149,
+     "chg": 0.0
+    },
+    "e3100": {
+     "price": 399,
+     "prev": 399,
+     "chg": 0.0
+    },
+    "R201T06": {
+     "price": 239,
+     "prev": 239,
+     "chg": 0.0
+    },
+    "R1000TC": {
+     "price": 359,
+     "prev": 359,
+     "chg": 0.0
+    },
+    "R201T08": {
+     "price": 348,
+     "prev": 348,
+     "chg": 0.0
+    },
+    "S1000": {
+     "price": 1198,
+     "prev": null,
+     "chg": null
+    },
+    "R301T": {
+     "price": 299,
+     "prev": null,
+     "chg": null
+    }
+   },
+   "JBL JBL": {
+    "JBL PARTYBOX STAGE 320": {
+     "price": 3699,
+     "prev": 3699,
+     "chg": 0.0
+    },
+    "JBL PS3500": {
+     "price": 399,
+     "prev": 399,
+     "chg": 0.0
+    },
+    "JBL CINEMA SB550": {
+     "price": 1799,
+     "prev": 1799,
+     "chg": 0.0
+    },
+    "JBL Horizon 2": {
+     "price": 1099,
+     "prev": 1099,
+     "chg": 0.0
+    },
+    "86dBmV": {
+     "price": 2550,
+     "prev": 2550,
+     "chg": 0.0
+    },
+    "JBL FLIP ESSENTIAL 2": {
+     "price": 699,
+     "prev": 699,
+     "chg": 0.0
+    },
+    "JBL CM102 1.25": {
+     "price": 1299,
+     "prev": 1299,
+     "chg": 0.0
+    },
+    "JBL BAR 1000": {
+     "price": 12999,
+     "prev": null,
+     "chg": null
+    }
+   }
+  },
+  "声卡": {
+   "创新 Creative": {
+    "Sound Blaster Recon 3D": {
+     "price": 799,
+     "prev": 799,
+     "chg": 0.0
+    },
+    "x1 x1": {
+     "price": 249,
+     "prev": 249,
+     "chg": 0.0
+    }
+   },
+   "华硕 ASUS": {
+    "ESS SABRE9016 Premier": {
+     "price": 1399,
+     "prev": 1399,
+     "chg": 0.0
+    },
+    "ESS SABRE9006A Premier": {
+     "price": 999,
+     "prev": 999,
+     "chg": 0.0
+    }
+   }
+  },
+  "路由器": {
+   "TP-LINK TP-LINK": {
+    "IEEE 802.3x VPN": {
+     "price": 59,
+     "prev": 59,
+     "chg": 0.0
+    },
+    "IEEE 802.3": {
+     "price": 259,
+     "prev": 259,
+     "chg": 0.0
+    },
+    "IEEE 802.3x": {
+     "price": 1898,
+     "prev": 1898,
+     "chg": 0.0
+    },
+    "0.31kg K72": {
+     "price": 529,
+     "prev": 529,
+     "chg": 0.0
+    },
+    "DDR3 2": {
+     "price": 1145,
+     "prev": 1145,
+     "chg": 0.0
+    },
+    "IEEE 802": {
+     "price": 189,
+     "prev": 189,
+     "chg": 0.0
+    },
+    "0.31kg K76": {
+     "price": 959,
+     "prev": 959,
+     "chg": 0.0
+    },
+    "TL-7DR3650": {
+     "price": 329,
+     "prev": 329,
+     "chg": 0.0
+    }
+   },
+   "华为 HUAWEI": {
+    "1*USB3.0": {
+     "price": 6797,
+     "prev": 6797,
+     "chg": 0.0
+    },
+    "9-25Mpps Qos": {
+     "price": 8999,
+     "prev": 8999,
+     "chg": 0.0
+    },
+    "ACLv4/v6": {
+     "price": 55999,
+     "prev": 55999,
+     "chg": 0.0
+    },
+    "EEE802.3": {
+     "price": 2133,
+     "prev": 2133,
+     "chg": 0.0
+    },
+    "+1*USB2.0": {
+     "price": 5999,
+     "prev": 5999,
+     "chg": 0.0
+    }
+   }
+  }
+ }
+}

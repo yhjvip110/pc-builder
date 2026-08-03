@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>PC Builder · 电脑城配置单</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:#0a0a1a; color:#c9d1d9; font-family:'Segoe UI','Microsoft YaHei',sans-serif; padding:24px; }
+  h1 { font-size:20px; letter-spacing:3px; color:#58a6ff; font-family:'Consolas',monospace; text-shadow:0 0 18px rgba(88,166,255,.5); margin-bottom:4px; }
+  h1 span { color:#f0f6fc; }
+  .sub { color:#8b949e; font-size:12px; margin-bottom:18px; font-family:'Consolas',monospace; }
+  #wrap { display:grid; grid-template-columns: 1fr 340px; gap:16px; max-width:1200px; margin:0 auto; }
+  #parts { display:grid; grid-template-columns: repeat(2,1fr); gap:10px; }
+  .cat { background:rgba(13,17,33,.7); border:1px solid rgba(88,166,255,.18); border-radius:10px; padding:12px; }
+  .cat h3 { font-size:12px; color:#58a6ff; letter-spacing:1px; margin-bottom:8px; font-family:'Consolas',monospace; }
+  .cat select { width:100%; background:#161b33; color:#f0f6fc; border:1px solid rgba(88,166,255,.3); border-radius:6px; padding:8px; font-size:13px; }
+  .cat select option, .cat select optgroup { background:#161b33; color:#f0f6fc; }
+  .cat select optgroup { color:#d2a8ff; font-weight:bold; }
+  #side { position:sticky; top:20px; align-self:start; background:rgba(13,17,33,.9); border:1px solid rgba(88,166,255,.3); border-radius:12px; padding:16px; }
+  #side h2 { font-size:13px; color:#58a6ff; letter-spacing:2px; margin-bottom:12px; font-family:'Consolas',monospace; }
+  #summary { font-size:13px; line-height:1.9; }
+  #summary .row { display:flex; justify-content:space-between; border-bottom:1px dashed rgba(88,166,255,.12); padding:2px 0; }
+  #summary .row .name { color:#c9d1d9; flex:1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  #summary .row .brand { color:#8b949e; font-size:11px; margin-left:4px; flex-shrink:0; }
+  #summary .row .price { color:#f0f6fc; margin-left:8px; }
+  #summary .row .chg { width:52px; text-align:right; font-size:11px; }
+  .up { color:#f85149; } .down { color:#3fb950; } .flat { color:#8b949e; }
+  #total { margin-top:12px; padding-top:12px; border-top:2px solid rgba(88,166,255,.4); font-size:16px; font-family:'Consolas',monospace; }
+  #total b { color:#d2a8ff; font-size:22px; }
+  #actions { display:flex; gap:8px; margin-top:14px; }
+  button { flex:1; padding:10px; border-radius:8px; border:1px solid rgba(88,166,255,.4); background:linear-gradient(135deg,#1a1a3e,#16213e); color:#58a6ff; cursor:pointer; font-size:13px; }
+  button:hover { box-shadow:0 0 14px rgba(88,166,255,.3); }
+  #bill { display:none; margin-top:16px; background:#0d1121; border:1px solid rgba(88,166,255,.3); border-radius:10px; padding:16px; font-size:12px; line-height:1.8; white-space:pre-wrap; font-family:'Consolas',monospace; }
+  @media print { body { background:#fff; color:#000; } .cat, #side, button, h1 { display:none; } #bill { display:block !important; border:1px solid #000; color:#000; } }
+</style>
+</head>
+<body>
+<h1>◈ PC <span>BUILDER</span> // 电脑城配置单</h1>
+<div class="sub">15 类全品牌配件报价 · 每日更新 · 涨跌实时 — 像在电脑城拉单子</div>
+<div id="wrap">
+  <div id="parts"></div>
+  <div id="side">
+    <h2>🧾 配置单</h2>
+    <div id="summary"></div>
+    <div id="total"></div>
+    <div id="actions">
+      <button onclick="genBill()">📄 拉单子</button>
+      <button onclick="window.print()">🖨 打印</button>
+    </div>
+    <div id="bill"></div>
+  </div>
+</div>
+<script>
+let DATA = null;
+let CATS = [];
+let SEL = {};  // cat -> {brand, model}
+
+async function load(){
+  const r = await fetch('pc_parts_data.json');
+  DATA = await r.json();
+  CATS = Object.keys(DATA.categories);
+  const parts = document.getElementById('parts');
+  parts.innerHTML = '';
+  CATS.forEach(cat => {
+    const brands = DATA.categories[cat] || {};
+    const div = document.createElement('div');
+    div.className = 'cat';
+    let opts = '<option value="">— 选择 ' + cat + ' —</option>';
+    Object.entries(brands).forEach(([brand, items]) => {
+      opts += `<optgroup label="${brand}">`;
+      Object.entries(items).forEach(([model, d]) => {
+        const chg = d.chg != null ? (d.chg > 0 ? ' ↑' + d.chg + '%' : (d.chg < 0 ? ' ↓' + d.chg + '%' : '')) : '';
+        opts += `<option value="${brand}||${model}">${model} — ¥${d.price}${chg}</option>`;
+      });
+      opts += '</optgroup>';
+    });
+    div.innerHTML = `<h3>${cat} <span style="color:#8b949e;font-weight:normal">(${Object.keys(brands).length} 品牌)</span></h3><select onchange="calc()">${opts}</select>`;
+    parts.appendChild(div);
+  });
+  calc();
+}
+
+function pick(cat){
+  const sel = document.querySelectorAll('.cat select')[CATS.indexOf(cat)];
+  if (!sel || !sel.value) return null;
+  const [brand, model] = sel.value.split('||');
+  return { brand, model, d: DATA.categories[cat][brand][model] };
+}
+
+function calc(){
+  const summary = document.getElementById('summary');
+  const total = document.getElementById('total');
+  let sum = 0, html = '';
+  CATS.forEach(cat => {
+    const p = pick(cat);
+    if (!p) { html += `<div class="row"><span class="name" style="color:#4a536b">${cat}: 未选</span></div>`; return; }
+    sum += p.d.price;
+    const cls = p.d.chg == null ? 'flat' : (p.d.chg > 0 ? 'up' : (p.d.chg < 0 ? 'down' : 'flat'));
+    const chgTxt = p.d.chg == null ? '—' : (p.d.chg > 0 ? '↑' + p.d.chg + '%' : (p.d.chg < 0 ? '↓' + p.d.chg + '%' : ''));
+    html += `<div class="row"><span class="name">${p.model}</span><span class="brand">${p.brand}</span><span class="price">¥${p.d.price}</span><span class="chg ${cls}">${chgTxt}</span></div>`;
+  });
+  summary.innerHTML = html;
+  total.innerHTML = `<div>💰 总价 <b>¥${sum.toLocaleString()}</b></div><div style="font-size:11px;color:#8b949e;margin-top:4px">数据日期: ${DATA.date} · 中关村在线参考价</div>`;
+}
+
+function genBill(){
+  const bill = document.getElementById('bill');
+  let lines = [];
+  lines.push('══════════════════════════════════');
+  lines.push('       🖥 电脑配置单 (SPATIUM PC Builder)');
+  lines.push('══════════════════════════════════');
+  lines.push('  日期: ' + DATA.date);
+  lines.push('  数据: 中关村在线参考价');
+  lines.push('──────────────────────────────────');
+  let sum = 0;
+  CATS.forEach(cat => {
+    const p = pick(cat);
+    if (!p) { lines.push(`  ${cat.padEnd(4)}  — 未选`); return; }
+    sum += p.d.price;
+    const chg = p.d.chg == null ? '' : (p.d.chg > 0 ? ' (↑' + p.d.chg + '%)' : (p.d.chg < 0 ? ' (↓' + p.d.chg + '%)' : ''));
+    lines.push(`  ${cat.padEnd(4)}  [${p.brand}] ${p.model}`);
+    lines.push(`           ¥${p.d.price.toLocaleString()}${chg}`);
+  });
+  lines.push('──────────────────────────────────');
+  lines.push(`  合计: ¥${sum.toLocaleString()}`);
+  lines.push('══════════════════════════════════');
+  bill.textContent = lines.join('\n');
+  bill.style.display = 'block';
+}
+load();
+</script>
+</body></html>
